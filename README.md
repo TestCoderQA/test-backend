@@ -14,7 +14,7 @@ Prerequisites
 Ensure you have Python 3.12.3 and the required dependencies:
 
 ## Installation
-pip install -r requirements.txt
+| `pip install -r requirements.txt` |
 
 ### Features
 Code Explanation
@@ -46,8 +46,4 @@ The API should return a list of companies with fields like:
 
 
 Run the test:
-
-pytest test_api.py -v
-
-```bash
-pip install -r requirements.txt
+| `pytest test_api.py -v` |
